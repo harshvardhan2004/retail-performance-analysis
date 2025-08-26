@@ -59,9 +59,12 @@ Retail-Performance-Analysis/
 5. Explore the interactive dashboard.  
 
 ---
-Harsh Vardhan
+
 ## 🔹 Applications  
 - HR / Management reporting  
 - Sales strategy planning  
 - Customer behavior analysis  
-- Business decision support  
+- Business decision support
+  
+- ---
+Harsh Vardhan
