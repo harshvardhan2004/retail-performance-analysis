@@ -44,7 +44,10 @@ Retail-Performance-Analysis/
 ---
 
 ## 🔹 Dashboard Preview  
-*(Insert screenshot here once you export Power BI visuals)*  
+<img width="1496" height="817" alt="Screenshot 2025-08-26 171329" src="https://github.com/user-attachments/assets/e980a2e6-ffbd-4bd0-9fae-e35f2444915f" />
+<img width="1509" height="767" alt="Screenshot 2025-08-26 171353" src="https://github.com/user-attachments/assets/59c8170a-fbfe-44b7-998e-ddbd1162e6c5" />
+<img width="1449" height="762" alt="image" src="https://github.com/user-attachments/assets/9ff00239-7613-4159-b2a3-c2fd76cbd76f" />
+
 
 ---
 
@@ -56,7 +59,7 @@ Retail-Performance-Analysis/
 5. Explore the interactive dashboard.  
 
 ---
-
+Harsh Vardhan
 ## 🔹 Applications  
 - HR / Management reporting  
 - Sales strategy planning  
