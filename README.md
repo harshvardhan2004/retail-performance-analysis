@@ -1,4 +1,4 @@
-# 📊 Retail Performance Analysis  
+#  Retail Performance Analysis  
 
 ## 🔹 Project Overview  
 This project focuses on analyzing retail sales performance using **SQL, Excel, and Power BI**.  
@@ -8,7 +8,7 @@ I built an end-to-end pipeline starting from raw sales data → cleaning with SQ
 
 ---
 
-## 🔹 Objectives  
+##  Objectives  
 - Perform data cleaning and transformation using SQL queries.  
 - Use Excel for validation, pivot tables, and initial summaries.  
 - Build a **Power BI dashboard** that tracks sales KPIs (total revenue, monthly trends, top products, regional performance).  
@@ -16,14 +16,14 @@ I built an end-to-end pipeline starting from raw sales data → cleaning with SQ
 
 ---
 
-## 🔹 Tools & Technologies  
+##  Tools & Technologies  
 - **SQL** (data cleaning, filtering, and aggregation)  
 - **Excel** (validation and exploratory analysis)  
 - **Power BI** (interactive dashboards and reporting)  
 
 ---
 
-## 🔹 Key Insights  
+##  Key Insights  
 - Identified top-performing products and regions contributing the highest sales.  
 - Analyzed monthly and yearly sales trends for revenue growth.  
 - Discovered underperforming categories that need attention.  
@@ -31,7 +31,7 @@ I built an end-to-end pipeline starting from raw sales data → cleaning with SQ
 
 ---
 
-## 🔹 Repository Structure  
+##  Repository Structure  
 ```
 Retail-Performance-Analysis/
 │
@@ -43,7 +43,7 @@ Retail-Performance-Analysis/
 
 ---
 
-## 🔹 Dashboard Preview  
+##  Dashboard Preview  
 <img width="1496" height="817" alt="Screenshot 2025-08-26 171329" src="https://github.com/user-attachments/assets/e980a2e6-ffbd-4bd0-9fae-e35f2444915f" />
 <img width="1509" height="767" alt="Screenshot 2025-08-26 171353" src="https://github.com/user-attachments/assets/59c8170a-fbfe-44b7-998e-ddbd1162e6c5" />
 <img width="1449" height="762" alt="image" src="https://github.com/user-attachments/assets/9ff00239-7613-4159-b2a3-c2fd76cbd76f" />
@@ -51,7 +51,7 @@ Retail-Performance-Analysis/
 
 ---
 
-## 🔹 How to Run  
+##  How to Run  
 1. Import the dataset into SQL Server/MySQL.  
 2. Run the queries from the `SQL/` folder to clean and transform data.  
 3. Load the cleaned dataset into Excel for verification.  
@@ -60,7 +60,7 @@ Retail-Performance-Analysis/
 
 ---
 
-## 🔹 Applications  
+##  Applications  
 - HR / Management reporting  
 - Sales strategy planning  
 - Customer behavior analysis  
