@@ -1,6 +1,6 @@
 #  Retail Performance Analysis  
 
-## 🔹 Project Overview  
+##  Project Overview  
 This project focuses on analyzing retail sales performance using **SQL, Excel, and Power BI**.  
 The main goal is to understand business KPIs such as revenue growth, customer segmentation, and product performance.  
 
